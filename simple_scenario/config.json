@@ -32,5 +32,6 @@
   "show_node_labels": true,
   "show_edge_labels": true,
   "show_edges": true,
-  "with_node_ids": true
+  "with_node_ids": true,
+  "edge_label_position": 0.5
 }

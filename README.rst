@@ -1,6 +1,8 @@
 A simple use case of the flovwis package
 ========================================
 
+For Info about how to Install flowvis, visit FlowVis_
+
 You can run the example as is simply by running the code below:
 
 .. code-block:: bash
@@ -84,3 +86,4 @@ scenario and the solutions should be visualized as well, then the following two 
     load_solution(solution_file)
 
 
+.. _FlowVis:       https://github.com/j-i-l/FlowVis
